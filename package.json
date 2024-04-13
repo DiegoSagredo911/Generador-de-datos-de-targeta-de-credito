@@ -1,0 +1,37 @@
+{
+  "name": "tarjetas-de-credito",
+  "version": "2.0.0",
+  "description": "Una librería que proporciona funciones para generar y validar números de tarjetas de crédito aleatorios, junto con sus códigos de verificación (VCC) y fechas de vencimiento. Ideal para aplicaciones que requieren datos de tarjetas de crédito de prueba o para realizar validaciones básicas de tarjetas de crédito en aplicaciones de comercio electrónico.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarjeta de crédito",
+    "generador de tarjetas de crédito",
+    "validación de tarjetas de crédito",
+    "comercio electrónico",
+    "pruebas",
+    "datos de prueba",
+    "seguridad",
+    "fraude",
+    "transacciones",
+    "compras en línea",
+    "finanzas",
+    "banca",
+    "pagos",
+    "desarrollo de software",
+    "JavaScript",
+    "Node.js",
+    "npm",
+    "paquete",
+    "librería",
+    "backend",
+    "front end"
+  ],
+  "author": "Diego Sagredo",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
